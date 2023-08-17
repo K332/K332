@@ -1,4 +1,3 @@
-
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/K332/K332"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -23,28 +22,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--   my-ticker -->    
+![](./assets/header_.png)
+
+<!--   my-ticker -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Brock+Teddy;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 
-
-
-
 <!--   GitHub stats graph -->
+
 ### 📈 GitHub Activity Graph:
+
 <!-- [![K332's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=K332&theme=github-compact)](https://github.com/K332/github-readme-activity-graph) -->
 
 | .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=K332&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K332&theme=radical&layout=compact) |
-
-
-
-
-
-
-
-
-
-
-
-

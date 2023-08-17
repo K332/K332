@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 | .                                                                                                                                       | .                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=K332&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K332&theme=radical&layout=compact) |
+
+<picture>
+  <source media="{prefers-color-scheme:dark}" srcset="https://raw.githubusercontent.com/K332/K332/output/github-contribution-grid-snake-dark.svg"></source>
+   <source media="{prefers-color-scheme:light}" srcset="https://raw.githubusercontent.com/K332/K332/output/github-contribution-grid-snake.svg"></source>
+</picture>

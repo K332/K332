@@ -1,6 +1,6 @@
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/K332/K332"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/K332/K332"><img src="https://img.shields.io/badge/status-blocking-FF1493.svg"></a>
 <!--     <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/badge/TypeScript-5.16-FF1493.svg"></a> -->
     <a href="https://github.com/K332/K332/graphs/contributors"><img src="https://img.shields.io/github/contributors/K332/K332?color=blue"></a>
     <a href="https://github.com/K332/K332/stargazers"><img src="https://img.shields.io/github/stars/K332/K332.svg?logo=github"></a>
